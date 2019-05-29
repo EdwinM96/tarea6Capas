@@ -14,7 +14,6 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import com.oracle.tools.packager.Log;
 import com.uca.capas.dao.StudentDAO;
 import com.uca.capas.domain.Student;
 
